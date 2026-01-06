@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "Red Soul Rumi",
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/rumi_demon_01.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.png"
   },
   {
     "id": 2,
     "name": "Rumi Neon Hunter",
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/rumi_demon_02.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.png"
   }
 ]
