@@ -8,5 +8,35 @@
     "id": 2,
     "name": "Rumi Neon Hunter",
     "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.png"
+  },
+  {
+    "id": 3,
+    "name": "Red Soul Rumi",
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.png"
+  },
+  {
+    "id": 4,
+    "name": "Rumi Neon Hunter",
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.png"
+  },
+  {
+    "id": 5,
+    "name": "Red Soul Rumi",
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.png"
+  },
+  {
+    "id": 6,
+    "name": "Rumi Neon Hunter",
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.png"
+  },
+  {
+    "id": 7,
+    "name": "Red Soul Rumi",
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.png"
+  },
+  {
+    "id": 8,
+    "name": "Rumi Neon Hunter",
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.png"
   }
 ]
