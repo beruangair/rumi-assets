@@ -5,7 +5,7 @@
     "resolution": "2160x3840",
     "size": "4.2 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "resolution": "2160x3840",
     "size": "4.2 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.jpg"
   },
   {
     "id": 3,
@@ -110,5 +110,61 @@
     "size": "4.2 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
     "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Red Soul Rumi",
+    "resolution": "2160x3840",
+    "size": "4.2 MB",
+    "tags": ["Dark Fantasy", "Neon", "Demon"],
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_13.jpg"
   }
 ]
