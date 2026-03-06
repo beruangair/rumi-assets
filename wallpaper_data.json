@@ -3,49 +3,49 @@
     "id": 1,
     "name": "Rumi and Zoe",
     "resolution": "2160x3840",
-    "size": "4.2 MB",
+    "size": "2.11 MB",
     "tags": ["Rumi", "Zoe"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_01.jpg"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_01.png"
   },
   {
     "id": 2,
     "name": "Rumi Action",
     "resolution": "2160x3840",
-    "size": "4.2 MB",
+    "size": "7.07 MB",
     "tags": ["Rumi", "Action", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_02.jpg"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_02.png"
   },
   {
     "id": 3,
     "name": "Red Gothic Style",
     "resolution": "2160x3840",
-    "size": "4.2 MB",
+    "size": "7.96 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_03.jpg"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_03.png"
   },
   {
     "id": 4,
     "name": "Rumi Royal Armor",
     "resolution": "2160x3840",
-    "size": "4.2 MB",
+    "size": "6.57 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_04.jpg"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_04.png"
   },
   {
     "id": 5,
     "name": "Rumi Casual Hoodie",
     "resolution": "2160x3840",
-    "size": "4.2 MB",
+    "size": "7.86 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_05.jpg"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_05.png"
   },
   {
     "id": 6,
     "name": "Rumi Streetwear",
     "resolution": "2160x3840",
-    "size": "4.2 MB",
+    "size": "5.93 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_demon_06.jpg"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_06.png"
   },
   {
     "id": 7,
