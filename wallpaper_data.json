@@ -5,7 +5,7 @@
     "resolution": "2160x3840",
     "size": "2.11 MB",
     "tags": ["Rumi", "Zoe"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_01.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_01.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "resolution": "2160x3840",
     "size": "7.07 MB",
     "tags": ["Rumi", "Action", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_02.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_02.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "resolution": "2160x3840",
     "size": "7.96 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_03.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_03.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "resolution": "2160x3840",
     "size": "6.57 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_04.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_04.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "resolution": "2160x3840",
     "size": "7.86 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_05.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_05.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "resolution": "2160x3840",
     "size": "5.93 MB",
     "tags": ["Dark Fantasy", "Neon", "Demon"],
-    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_06.png"
+    "image_url": "https://cdn.jsdelivr.net/gh/beruangair/rumi-assets/images/rumi_06.jpg"
   },
   {
     "id": 7,
